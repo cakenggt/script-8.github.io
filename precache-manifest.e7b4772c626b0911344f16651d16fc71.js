@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/script-8.github.io/static/media/slider480.dc4d8c4b.gif"
   },
   {
-    "revision": "ebb4bf8008e98241d66a",
+    "revision": "ff36146b3d0ac5aca678",
     "url": "/script-8.github.io/static/css/main.e0509b9f.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/script-8.github.io/static/media/livecoding480.20d1866a.gif"
   },
   {
-    "revision": "ebb4bf8008e98241d66a",
-    "url": "/script-8.github.io/static/js/main.52219043.chunk.js"
+    "revision": "ff36146b3d0ac5aca678",
+    "url": "/script-8.github.io/static/js/main.0dbec499.chunk.js"
   },
   {
     "revision": "741e69fa2da0517ecd9b1a84d60b1e82",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/script-8.github.io/static/media/VT323-latin.e3552630.woff2"
   },
   {
-    "revision": "4d26f1bca1462ea0c6c8b31906a3968f",
+    "revision": "4eaa8d1ca79b69cd8227cf1330e59e10",
     "url": "/script-8.github.io/index.html"
   }
 ];
