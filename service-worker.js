@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/script-8.github.io/precache-manifest.e7b4772c626b0911344f16651d16fc71.js"
+  "https://cakenggt.github.io/script8.github.io/precache-manifest.8fb38d70fda310480a7acc78bb102959.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/script-8.github.io/index.html", {
+workbox.routing.registerNavigationRoute("https://cakenggt.github.io/script8.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
