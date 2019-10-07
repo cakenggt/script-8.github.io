@@ -47,7 +47,7 @@ class ShelfCassettes extends Component {
         <div className="img">
           <span className="title">{finalTitle || ' '}</span>
           <a
-            href={`/?id=${gist}`}
+            href={`${process.env.PUBLIC_URL}/?id=${gist}`}
             onClick={e => {
               handleOnClick({ e, id: gist })
             }}

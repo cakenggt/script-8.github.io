@@ -31,7 +31,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
-    "react-router-dom": "^4.2.2",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
@@ -40,7 +40,7 @@
     "tone": "^13.4.9",
     "ws": "^4.1.0"
   },
-  "homepage": "http://script-8.github.io",
+  "homepage": "http://cakenggt.github.io/script-8.github.io",
   "scripts": {
     "watch-shortcuts": "chokidar \"src/utils/shortcuts.yaml\" -c \"npm run parse-shortcuts\"",
     "parse-shortcuts": "js-yaml src/utils/shortcuts.yaml > src/utils/shortcuts.json",
